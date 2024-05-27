@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7fv8hg29lqt6j4tb?svg=true)](https://ci.appveyor.com/project/marinaolivekey/aqapatternsapi)
